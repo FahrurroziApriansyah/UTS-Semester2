@@ -1,5 +1,5 @@
 <?php 
-require_once 'dbkoneksi.php';
+require_once 'db_healthbeauty';
 ?>
 <?php
     $_id = $_GET['id'];
@@ -15,7 +15,7 @@ require_once 'dbkoneksi.php';
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>STARRA ATK</title>
+    <title>Fitafieee Shop</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -54,7 +54,7 @@ require_once 'dbkoneksi.php';
         <div class="d-flex align-items-center justify-content-between">
           <div class="logo">
             <div class="site-logo">
-              <a href="index.html" class="js-logo-clone">STARRA</a>
+              <a href="index.html" class="js-logo-clone">Fitafieee Shop</a>
             </div>
           </div>
           <div class="main-nav d-none d-lg-block">
@@ -99,7 +99,7 @@ require_once 'dbkoneksi.php';
         <div class="row pt-5 mt-5 text-center">
           <div class="col-md-12">
             <p>
-            Copyright Arrahima Hamdia &copy;<script>document.write(new Date().getFullYear());</script></a>
+            Copyright Fitafieee Shop &copy;<script>document.write(new Date().getFullYear());</script></a>
             </p>
           </div>
           

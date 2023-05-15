@@ -1,6 +1,6 @@
 <?php 
   $host = 'localhost';
-  $db = 'db_alattulis';
+  $db = 'db_healtbeauty';
   $user = 'root';
   $pass = '';
   $charset='utf8mb4';
@@ -13,6 +13,6 @@
     PDO::ATTR_EMULATE_PREPARES=>false,
   ];
 
-  $dbh =  new PDO($dsn,$user,$pass,$opt);
+  $db =  new PDO($dsn,$user,$pass,$opt);
 
 ?>

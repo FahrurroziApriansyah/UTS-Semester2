@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>STARRA ATK</title>
+    <title>Fitafieee Shop</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -40,7 +40,7 @@
         <div class="d-flex align-items-center justify-content-between">
           <div class="logo">
             <div class="site-logo">
-              <a href="index.html" class="js-logo-clone">STARRA</a>
+              <a href="index.html" class="js-logo-clone">Fitafieee Shop</a>
             </div>
           </div>
           <div class="main-nav d-none d-lg-block">
@@ -143,9 +143,9 @@
             <div class="block-5 mb-5">
               <h3 class="footer-heading mb-4">Contact Info</h3>
               <ul class="list-unstyled">
-                <li class="address">Jl. Margonda Raya no.12 Kota Depok, 16423</li>
+                <li class="address">Jl. Pejaten Jakarta Selatan, 16423</li>
                 <li class="phone"><a href="tel://021223667">021 223 667</a></li>
-                <li class="email">starra.atk@gmail.com</li>
+                <li class="email">Fitafieee@gmail.com</li>
               </ul>
             </div>
 
@@ -164,7 +164,7 @@
           <div class="col-md-12">
             <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright Arrahima Hamdia &copy;<script>document.write(new Date().getFullYear());</script></a>
+            Copyright Fitafieee Shop &copy;<script>document.write(new Date().getFullYear());</script></a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>

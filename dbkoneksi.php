@@ -1,6 +1,6 @@
 <?php 
   $host = 'localhost';
-  $db = 'db_alattulis';
+  $db = 'db_healthbeauty';
   $user = 'root';
   $pass = '';
   $charset='utf8mb4';
